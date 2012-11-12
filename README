@@ -1,3 +1,3 @@
-Putting all my answers to project euler on here.  Did a lot of these a long time ago and don't have the code any more so I might redo some of them, now that I have a better knowledge of Python.
-I'm currently attempting to solve these in as short of code as I can, rather than going for speed.  Keep in mind, these one-liners aren't necessarily aiming for speed, but rather just for shortness.
-Later on, I may come back and do a solution with the fastest code, and then solution with both fast and short code.
+Here are a bunch of my answers for Project Euler.  Most old ones are done in Python, although some, that I no longer have the code for, were done in Java.  Some of these are going for speed, others are going for shortest code.
+
+Right now, I'm doing them in Ruby, so that's what any new ones will be in.
