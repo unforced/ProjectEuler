@@ -1,3 +1,4 @@
+#I don't think this works, did this a while ago
 stringList = []
 with open('euler18.txt') as f:
     for line in f:
@@ -27,5 +28,3 @@ def find_sum(row, num, sum):
     else:
         find_sum(row+1, num+1, tempSum)
         find_sum(row+1, num, tempSum)
-  
-    
